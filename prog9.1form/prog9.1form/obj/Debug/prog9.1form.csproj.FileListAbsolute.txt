@@ -1,0 +1,10 @@
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\bin\Debug\prog9.1form.exe.config
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\bin\Debug\prog9.1form.exe
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\bin\Debug\prog9.1form.pdb
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\obj\Debug\prog9.1form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\obj\Debug\prog9._1form.Form1.resources
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\obj\Debug\prog9._1form.Properties.Resources.resources
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\obj\Debug\prog9.1form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\obj\Debug\prog9.1form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\obj\Debug\prog9.1form.exe
+C:\Учебная практика\Неделя 3 Задание 9\prog9.1form\prog9.1form\obj\Debug\prog9.1form.pdb

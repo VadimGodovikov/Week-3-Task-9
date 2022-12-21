@@ -1,0 +1,7 @@
+C:\Учебная практика\Неделя 3 Задание 9\prog9.2\prog9.2\bin\Debug\prog9.2.exe.config
+C:\Учебная практика\Неделя 3 Задание 9\prog9.2\prog9.2\bin\Debug\prog9.2.exe
+C:\Учебная практика\Неделя 3 Задание 9\prog9.2\prog9.2\bin\Debug\prog9.2.pdb
+C:\Учебная практика\Неделя 3 Задание 9\prog9.2\prog9.2\obj\Debug\prog9.2.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 9\prog9.2\prog9.2\obj\Debug\prog9.2.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 9\prog9.2\prog9.2\obj\Debug\prog9.2.exe
+C:\Учебная практика\Неделя 3 Задание 9\prog9.2\prog9.2\obj\Debug\prog9.2.pdb
